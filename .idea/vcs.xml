@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.build/checkouts/ColorizeSwift.git-2340911451578191164" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877" vcs="Git" />
