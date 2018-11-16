@@ -1,4 +1,4 @@
-PREFIX?=/usr/local
+PREFIX?=/usr/local/Cellar
 
 PROD_NAME=DRWApns
 PROD_NAME_HOMEBREW=DRWApns
