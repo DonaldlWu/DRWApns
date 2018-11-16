@@ -49,9 +49,11 @@ DRWApns will require you to input
 
 8. Content of notification
 
-Done
-
 ![2018-11-16 2 56 03](https://user-images.githubusercontent.com/28559915/48603005-0740c000-e9b0-11e8-9d6d-0e5d56c7dfee.png)
+
+![img_1856](https://user-images.githubusercontent.com/28559915/48604148-cc408b80-e9b3-11e8-9aa2-4441ee4be8e5.jpg)
+
+Done
 
 Future Work
 ------
