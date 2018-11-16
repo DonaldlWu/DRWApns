@@ -1,4 +1,4 @@
-PREFIX?=/usr/local/Cellar
+PREFIX?=/usr/local
 
 PROD_NAME=DRWApns
 PROD_NAME_HOMEBREW=DRWApns
@@ -8,6 +8,10 @@ build:
 
 build-for-linux:
 	swift build --disable-sandbox -c release
+
+install: build
+    mkdir -p "$(PREFIX)/bin"
+    cp -f ".build/release/LicensePlist" "$(PREFIX)/bin/license-plist"
 
 run:
 	.build/release/$(PROD_NAME)
