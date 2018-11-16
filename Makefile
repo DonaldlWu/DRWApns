@@ -11,7 +11,7 @@ build-for-linux:
 
 install: build
 	mkdir -p "$(PREFIX)/bin"
-	cp -f ".build/release/LicensePlist" "$(PREFIX)/bin/license-plist"
+	cp -f ".build/release/DRWApns" "$(PREFIX)/bin/DRWAPns"
 
 run:
 	.build/release/$(PROD_NAME)
